@@ -6,7 +6,7 @@ The dataset also includes additional trials during which the subjects were perfo
 
 ## Experiment details
 
-Five subjects (2 female, age between 22 and 47 years, all right-handed and fluent English speakers) participated in the experiment after providing informed consent.
+Five subjects (2 female and 3 male, age between 22 and 47 years, all right-handed and fluent English speakers) participated in the experiment after providing informed consent.
 All five subjects also participated in a previous experiment during which they were viewing images and reading captions without any modulation of attention. More details on data collection and preprocessing of this first experiment can be found in the [original SemReps-8K paper](https://elifesciences.org/reviewed-preprints/107933). The data from this experiment is used as training data for the decoders, and the additionally recorded data described in the following is used only as test data.
 The study was performed in accordance with French national ethical regulations (Comité de Protection des Personnes, ID 2019-A01920-57). 
 We collected functional MRI data using a 3T Philips ACHIEVA scanner (gradient echo pulse sequence, TR=2s, TE=30ms, 46 slices with a 32-channel head coil, slice thickness=3mm with 0.2mm gap, in-plane voxel dimensions 3×3mm). At the start of each session, we further acquired high-resolution anatomical images for each subject (voxel size=1mm$^3$, TR=8.13ms, TE=3.74ms, 170 sagittal slices).
