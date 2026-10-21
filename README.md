@@ -45,11 +45,13 @@ If you make use of the SemReps-8K dataset, please cite the corresponding paper:
 Nikolaus, M., Mozafari, M., Berry, I., Asher, N., Reddy, L., & VanRullen, R. (2025). Modality-Agnostic Decoding of Vision and Language from fMRI. eLife.
 https://doi.org/10.7554/eLife.107933
 
-If you make use of the attention modulation or imagery conditions of the SemReps-8K dataset, please cite the corresponding papers:
+If you make use of the attention modulation conditions of the SemReps-8K dataset, please cite the corresponding paper:
 
 Nikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Attention Increases the Spread of Modality-Invariant Information across the Cortex. Imaging Neuroscience.
 
+If you make use of the imagery conditions of the SemReps-8K dataset, please cite the corresponding paper:
 
+Nikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Leveraging modality-agnostic decoders for decoding of mental imagery. Under review at eNeuro.
 
 ## Acknowledgements
 
